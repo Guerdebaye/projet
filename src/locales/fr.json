@@ -1,0 +1,210 @@
+{
+  "hero_title": "Votre santé, sans attente",
+  "hero_sub": "MediPass révolutionne votre expérience médicale.",
+  "cta_start": "Commencer maintenant",
+  "cta_contact": "Contacter un expert",
+  "nav": {
+    "home": "Accueil",
+    "carnets": "Carnets",
+    "appointments": "Rendez-vous",
+    "health": "Santé",
+    "doctors": "Médecins",
+    "contact": "Contact"
+  },
+  "auth": {
+    "login": "Connexion",
+    "register": "S'inscrire",
+    "logout": "Déconnexion",
+    "profile": "Mon profil"
+  },
+  "home": {
+    "cta_explore": "Explorer la plateforme",
+    "cta_demo": "Voir la démo"
+  },
+  "contact": {
+    "name": "Nom complet",
+    "email": "Email",
+    "message": "Message"
+  },
+  "profile": {
+    "title": "Informations personnelles",
+    "role": "Patient MediPass",
+    "edit": "Modifier le profil",
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "name": "Nom complet",
+    "email": "Email",
+    "phone": "Téléphone",
+    "location": "Localisation",
+    "dob": "Date de naissance",
+    "bio": "Biographie",
+    "stats": {
+      "appointments": "Rendez-vous",
+      "carnets": "Carnets",
+      "doctors": "Médecins"
+    },
+    "danger": {
+      "title": "Zone de danger",
+      "warning": "Ces actions sont irréversibles.",
+      "change_password": "Changer le mot de passe",
+      "delete_account": "Supprimer le compte"
+    }
+  },
+  "notifications_page": {
+    "title": "Notifications",
+    "subtitle": "Gérez vos alertes et rappels médicaux",
+    "filters_title": "Filtres",
+    "filters": {
+      "all": "Tous",
+      "unread": "Non lus",
+      "alerts": "Alertes",
+      "reminders": "Rappels"
+    },
+    "quick_actions": {
+      "settings": "Paramètres",
+      "archive": "Archiver tout"
+    },
+    "quick_actions_title": "Actions rapides",
+    "mark_all_read": "Marquer tout comme lu",
+    "time_ago_minutes": "il y a {{count}}m",
+    "time_ago_hours": "il y a {{count}}h",
+    "time_ago_days": "il y a {{count}}j",
+    "auth_required": "Veuillez vous connecter pour accéder à vos notifications.",
+    "help_title": "Besoin d'aide ?",
+    "help_text": "Notre équipe est disponible 24/7 pour vous aider."
+    ,"empty": {
+      "title": "Aucune notification",
+      "message": "Vous êtes à jour ! Aucune notification à afficher.",
+      "cta_appointments": "Voir vos rendez-vous"
+    }
+  },
+  "carnets_page": {
+    "title": "Mes Carnets de Santé",
+    "subtitle": "Gérez vos carnets médicaux numériques",
+    "search_placeholder": "Rechercher un carnet...",
+    "filter_all": "Tous les statuts",
+    "filter_active": "Actifs",
+    "filter_used": "Utilisés",
+    "filter_expired": "Expirés",
+    "buy": "Acheter un carnet",
+    "status": {
+      "active": "Actif",
+      "used": "Utilisé",
+      "expired": "Expiré"
+    },
+    "details": "Détails",
+    "download": "Télécharger",
+    "close": "Fermer",
+    "steps": {
+      "city": "Ville",
+      "hospital": "Hôpital",
+      "carnetType": "Type de carnet",
+      "review": "Récapitulatif",
+      "payment": "Paiement"
+    },
+    "purchase": "Achat",
+    "expires": "Expire",
+    "price": "Prix",
+    "qr_secure": "QR Code sécurisé",
+    "step_headings": {
+      "city": "Choisissez votre ville",
+      "hospital": "Sélectionnez un hôpital",
+      "carnetType": "Type de carnet",
+      "review": "Récapitulatif",
+      "payment": "Méthode de paiement"
+    },
+    "payment": {
+      "amount": "Montant",
+      "instructions_title": "Instructions de paiement",
+      "total": "Montant total",
+      "choose_method": "Choisissez votre moyen de paiement",
+      "method_mobile": "Paiement mobile",
+      "method_card": "Carte bancaire",
+      "method_bank": "Virement bancaire",
+      "confirmed": "Paiement confirmé ! Votre carnet a été ajouté à votre compte."
+    },
+    "details_title": "Détails du carnet",
+    "serial_label": "Série",
+    "info_labels": {
+      "date_purchase": "Date d'achat",
+      "date_expires": "Date d'expiration",
+      "price": "Prix",
+      "status": "Statut",
+      "hospital": "Hôpital",
+      "city": "Ville"
+    },
+    "validity": "Validité",
+    "patient_labels": {
+      "name": "Nom",
+      "first_name": "Prénom",
+      "dob": "Date de naissance",
+      "card_number": "N Carte"
+    },
+    "qr_present_msg": "Présentez ce QR Code à l'accueil de l'hôpital",
+    "info_section": "Informations du carnet",
+    "patient_section": "Informations patient",
+    "cancel_payment": "Annuler le paiement",
+    "save_default_city": "Enregistrer {{city}} comme ma ville par défaut",
+    "actions": {
+      "back": "Retour",
+      "continue": "Continuer",
+      "proceed_payment": "Procéder au paiement",
+      "pay_now": "Payer maintenant",
+      "confirm_payment": "J'ai payé — Confirmer"
+    },
+    "default_city_msg": "Votre ville par défaut est : {{city}}",
+    "no_hospital": "Aucun hôpital dans cette ville",
+    "empty": {
+      "no_results": "Aucun carnet ne correspond à vos critères de recherche.",
+      "none": "Vous n'avez pas encore de carnets de santé.",
+      "buy_first": "Acheter votre premier carnet"
+    }
+    ,
+    "download_template": {
+      "title": "CARNET MÉDICAL - RÉPUBLIQUE",
+      "carnet_section": "INFORMATIONS DU CARNET",
+      "number": "Numéro",
+      "type": "Type",
+      "patient_section": "INFORMATIONS PATIENT",
+      "establishment_section": "ÉTABLISSEMENT",
+      "footer": "Ce carnet est valable pour une consultation dans tout établissement de santé partenaire."
+    }
+  },
+  "doctors_page": {
+    "title": "Médecins Partenaires",
+    "subtitle": "Trouvez le professionnel de santé qu'il vous faut",
+    "search_placeholder": "Rechercher un médecin, une spécialité...",
+    "all_specialties": "Toutes les spécialités",
+    "filters": "Filtres",
+    "book": "Prendre RDV",
+    "empty": {
+      "title": "Aucun médecin trouvé",
+      "message": "Aucun médecin ne correspond à vos critères de recherche.",
+      "reset": "Réinitialiser la recherche"
+    }
+  },
+  "appointments_page": {
+    "title": "Mes Rendez-vous",
+    "subtitle": "Gérez vos consultations médicales",
+    "book": "Prendre rendez-vous",
+    "no_appointments": "Aucun rendez-vous",
+    "no_appointments_msg": "Vous n'avez pas de rendez-vous programmé",
+    "cancel_confirm": "Annuler le rendez-vous?",
+    "keep": "Garder le RV",
+    "cancel": "Annuler le RV"
+  },
+  "health_page": {
+    "title": "Mon Suivi Santé",
+    "subtitle": "Surveillez votre santé au quotidien",
+    "tabs": {
+      "overview": "Vue d'ensemble",
+      "activity": "Activité",
+      "progress": "Progrès"
+    },
+    "see_details": "Voir le détail",
+    "add_activity": "Ajouter une activité"
+  },
+  "notifications": "Notifications",
+  "contact_title": "Contactez-nous",
+  "contact_submit": "Envoyer"
+}

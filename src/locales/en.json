@@ -1,0 +1,210 @@
+{
+  "hero_title": "Your health, no waiting",
+  "hero_sub": "MediPass transforms your medical experience.",
+  "cta_start": "Get started",
+  "cta_contact": "Contact an expert",
+  "nav": {
+    "home": "Home",
+    "carnets": "Carnets",
+    "appointments": "Appointments",
+    "health": "Health",
+    "doctors": "Doctors",
+    "contact": "Contact"
+  },
+  "auth": {
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "profile": "My profile"
+  },
+  "home": {
+    "cta_explore": "Explore the platform",
+    "cta_demo": "Watch demo"
+  },
+  "contact": {
+    "name": "Full name",
+    "email": "Email",
+    "message": "Message"
+  },
+  "profile": {
+    "title": "Your Profile",
+    "role": "MediPass Patient",
+    "edit": "Edit Profile",
+    "save": "Save",
+    "cancel": "Cancel",
+    "name": "Full name",
+    "email": "Email",
+    "phone": "Phone",
+    "location": "Location",
+    "dob": "Date of birth",
+    "bio": "Bio",
+    "stats": {
+      "appointments": "Appointments",
+      "carnets": "Records",
+      "doctors": "Doctors"
+    },
+    "danger": {
+      "title": "Danger zone",
+      "warning": "These actions are irreversible",
+      "change_password": "Change password",
+      "delete_account": "Delete account"
+    }
+  },
+  "notifications_page": {
+    "title": "Notifications",
+    "subtitle": "Manage your alerts and reminders",
+    "filters_title": "Filters",
+    "filters": {
+      "all": "All",
+      "unread": "Unread",
+      "alerts": "Alerts",
+      "reminders": "Reminders"
+    },
+    "quick_actions": {
+      "settings": "Settings",
+      "archive": "Archive all"
+    },
+    "quick_actions_title": "Quick actions",
+    "mark_all_read": "Mark all as read",
+    "time_ago_minutes": "{{count}}m ago",
+    "time_ago_hours": "{{count}}h ago",
+    "time_ago_days": "{{count}}d ago",
+    "auth_required": "Please log in to view your notifications.",
+    "help_title": "Need help?",
+    "help_text": "Our team is available 24/7 to assist you.",
+    "empty": {
+      "title": "No notifications",
+      "message": "You're all caught up! No notifications to show.",
+      "cta_appointments": "See your appointments"
+    }
+  },
+  "carnets_page": {
+    "title": "My Health Records",
+    "subtitle": "Manage your digital health records",
+    "search_placeholder": "Search a record...",
+    "filter_all": "All statuses",
+    "filter_active": "Active",
+    "filter_used": "Used",
+    "filter_expired": "Expired",
+    "buy": "Buy a record",
+    "status": {
+      "active": "Active",
+      "used": "Used",
+      "expired": "Expired"
+    },
+    "details": "Details",
+    "download": "Download",
+    "close": "Close",
+    "steps": {
+      "city": "City",
+      "hospital": "Hospital",
+      "carnetType": "Carnet type",
+      "review": "Review",
+      "payment": "Payment"
+    },
+    "purchase": "Purchase",
+    "expires": "Expires",
+    "price": "Price",
+    "qr_secure": "Secure QR Code",
+    "step_headings": {
+      "city": "Choose your city",
+      "hospital": "Select a hospital",
+      "carnetType": "Carnet type",
+      "review": "Summary",
+      "payment": "Payment method"
+    },
+    "payment": {
+      "amount": "Amount",
+      "instructions_title": "Payment instructions",
+      "total": "Total amount",
+      "method_mobile": "Mobile payment",
+      "method_card": "Card payment",
+      "method_bank": "Bank transfer",
+      "choose_method": "Choose your payment method",
+      "confirmed": "Payment confirmed! Your record has been added to your account."
+    },
+    "details_title": "Record details",
+    "serial_label": "Serial",
+    "info_labels": {
+      "date_purchase": "Purchase date",
+      "date_expires": "Expiration date",
+      "price": "Price",
+      "status": "Status",
+      "hospital": "Hospital",
+      "city": "City"
+    },
+    "validity": "Validity",
+    "patient_labels": {
+      "name": "Last name",
+      "first_name": "First name",
+      "dob": "Date of birth",
+      "card_number": "Card number"
+    },
+    "qr_present_msg": "Show this QR code at the hospital reception",
+    "info_section": "Record information",
+    "patient_section": "Patient information",
+    "cancel_payment": "Cancel payment",
+    "save_default_city": "Save {{city}} as my default city",
+    "actions": {
+      "back": "Back",
+      "continue": "Continue",
+      "proceed_payment": "Proceed to payment",
+      "pay_now": "Pay now",
+      "confirm_payment": "I paid — Confirm"
+    },
+    "default_city_msg": "Your default city is: {{city}}",
+    "no_hospital": "No hospitals in this city",
+    "empty": {
+      "no_results": "No record matches your search criteria.",
+      "none": "You don't have any health records yet.",
+      "buy_first": "Buy your first record"
+    }
+    ,
+    "download_template": {
+      "title": "HEALTH RECORD - REPUBLIC",
+      "carnet_section": "RECORD INFORMATION",
+      "number": "Number",
+      "type": "Type",
+      "patient_section": "PATIENT INFORMATION",
+      "establishment_section": "ESTABLISHMENT",
+      "footer": "This record is valid for a consultation at any partner healthcare facility."
+    }
+  },
+  "doctors_page": {
+    "title": "Partner Doctors",
+    "subtitle": "Find the right healthcare professional",
+    "search_placeholder": "Search a doctor, specialty...",
+    "all_specialties": "All specialties",
+    "filters": "Filters",
+    "book": "Book",
+    "empty": {
+      "title": "No doctor found",
+      "message": "No doctor matches your search criteria.",
+      "reset": "Reset search"
+    }
+  },
+  "appointments_page": {
+    "title": "My Appointments",
+    "subtitle": "Manage your medical consultations",
+    "book": "Book appointment",
+    "no_appointments": "No appointments",
+    "no_appointments_msg": "You have no scheduled appointments",
+    "cancel_confirm": "Cancel appointment?",
+    "keep": "Keep appointment",
+    "cancel": "Cancel appointment"
+  },
+  "health_page": {
+    "title": "My Health Tracking",
+    "subtitle": "Monitor your health daily",
+    "tabs": {
+      "overview": "Overview",
+      "activity": "Activity",
+      "progress": "Progress"
+    },
+    "see_details": "See details",
+    "add_activity": "Add activity"
+  },
+  "notifications": "Notifications",
+  "contact_title": "Contact us",
+  "contact_submit": "Send"
+}

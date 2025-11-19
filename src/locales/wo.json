@@ -1,0 +1,124 @@
+{
+  "hero_title": "Sa yëngat, wante kenn dañu wara jàpp",
+  "hero_sub": "MediPass di defal say mbir yu ñaw ci setal sa xel.",
+  "cta_start": "Tëm dëgg",
+  "cta_contact": "Njàngal ak expert bi",
+  "nav": {
+    "home": "Benn",
+    "carnets": "Carnets",
+    "appointments": "Rendez-vous",
+    "health": "Sante",
+    "doctors": "Jëfandikukat",
+    "contact": "Njàngal"
+  },
+  "auth": {
+    "login": "Wutal ak",
+    "register": "Njangalekat",
+    "logout": "Wopp",
+    "profile": "Sama profil"
+  },
+  "home": {
+    "cta_explore": "Saxal platform",
+    "cta_demo": "Jàngal demo"
+  },
+  "contact": {
+    "name": "Tur gu ñuul",
+    "email": "Email",
+    "message": "Lii laa bëggoon"
+  },
+  "profile": {
+    "title": "Sunu xibaar bu ñuul",
+    "role": "MediPass Patient",
+    "edit": "Toppal profil",
+    "save": "Saxal",
+    "cancel": "WaSTOP",
+    "name": "Tur gu ñuul",
+    "email": "Email",
+    "phone": "Telefoon",
+    "location": "Benn ci",
+    "dob": "Bés bu may",
+    "bio": "Biographie",
+    "stats": {
+      "appointments": "Rendez-vous",
+      "carnets": "Carnets",
+      "doctors": "Jëfandikukat"
+    },
+    "danger": {
+      "title": "Danger zone",
+      "warning": "Actions yi dañu ñakk ñu xam",
+      "change_password": "Sopp ndawi moos",
+      "delete_account": "Tànn compte bi"
+    }
+  },
+  "notifications_page": {
+    "title": "Benn xibaar",
+    "subtitle": "Gëstu yaakaar ak rappels",
+    "filters": {
+      "all": "Yenn",
+      "unread": "Bu ñu bokk",
+      "alerts": "Alertes",
+      "reminders": "Rappels"
+    },
+    "quick_actions": {
+      "settings": "Paramètres",
+      "archive": "Archiver tout"
+    },
+    "empty": {
+      "title": "Aucun xibaar",
+      "message": "Dinaa la topp! Aucune notification à afficher.",
+      "cta_appointments": "Benn ci rendez-vous"
+    }
+  },
+  "carnets_page": {
+    "title": "Mes Carnets",
+    "subtitle": "Gestion yu am solo",
+    "search_placeholder": "Soxlaal carnet...",
+    "filter_all": "Tous les statuts",
+    "filter_active": "Actifs",
+    "filter_used": "Utilisés",
+    "filter_expired": "Expirés",
+    "buy": "Jëkk jokkoo",
+    "empty": {
+      "no_results": "Benn carnet amul di topp",
+      "none": "Yow amul carnet",
+      "buy_first": "Jàngal carnet bi ci jëf"
+    }
+  },
+  "doctors_page": {
+    "title": "Jëfandikukat",
+    "subtitle": "Gëstu doktor bi",
+    "search_placeholder": "Soxlaal doktor, spécialité...",
+    "all_specialties": "Toutes les spécialités",
+    "filters": "Filtres",
+    "book": "Saxal rendez-vous",
+    "empty": {
+      "title": "Aucun doktor trouv",
+      "message": "Aucun médecin ne correspond à vos critères de recherche.",
+      "reset": "Rek reset"
+    }
+  },
+  "appointments_page": {
+    "title": "Mes Rendez-vous",
+    "subtitle": "Gerer vos rendez-vous",
+    "book": "Saxal rendez-vous",
+    "no_appointments": "Aucun rendez-vous",
+    "no_appointments_msg": "Su fekkee, amul rendez-vous",
+    "cancel_confirm": "Annuler le rendez-vous?",
+    "keep": "Teg ci tengan",
+    "cancel": "Soppal rendez-vous"
+  },
+  "health_page": {
+    "title": "Sunu Suivi Santé",
+    "subtitle": "Gëstu sa santé",
+    "tabs": {
+      "overview": "Vue d'ensemble",
+      "activity": "Activité",
+      "progress": "Progrès"
+    },
+    "see_details": "Wut ay détails",
+    "add_activity": "Topp activité"
+  },
+  "notifications": "Benn xibaar",
+  "contact_title": "Benn ci sunu liggéey",
+  "contact_submit": "Gis"
+}
